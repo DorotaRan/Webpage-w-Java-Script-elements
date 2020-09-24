@@ -1,0 +1,31 @@
+@media (min-width: 768px) {
+    .container {
+        width: 740px;
+    }
+
+    .image img {
+       width: 300px;
+    }
+
+    .why-us {
+       height: 400px;
+    }
+
+    .footer-box {
+        height: 450px;
+    }
+    .contact-details {
+        margin-left: 20px;
+    }
+    .quick-links > ul {
+        margin-left: 50px;
+    }
+
+    .quick-links {
+        margin-left: 0;
+    }
+
+    .quick-links li {
+        border-bottom: none;
+    }
+}
